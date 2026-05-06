@@ -1,2 +1,5 @@
 Automation with Git and Sourcetree 
 Pull new data form git
+
+Hi Today date is May 6th, 2026 
+Thanks :)
